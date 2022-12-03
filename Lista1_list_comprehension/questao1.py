@@ -14,6 +14,7 @@
 
 lista = [x for x in range(1, 10**7) if x % 7 == 0]
 
+print(lista)
 
 """
     passo a passo da execução da expressão acima:
