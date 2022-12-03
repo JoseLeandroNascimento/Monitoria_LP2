@@ -17,6 +17,18 @@ lista = [x for x in range(1, 10**7) if x % 7 == 0]
 print(lista)
 
 """
+    Essa expressão é equivalente:
+
+    lista = []
+
+    for x in range(1,10**7):
+
+        if x % 7 ==0:
+
+            lista.append(x)
+"""
+
+"""
     passo a passo da execução da expressão acima:
 
     passo 1: 
