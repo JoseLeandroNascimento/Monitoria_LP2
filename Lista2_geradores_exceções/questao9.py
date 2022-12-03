@@ -1,3 +1,10 @@
+"""
+9. Crie uma função que recebe um String como parâmetro e verifica se a mesma é composta apenas por
+caracteres maiúsculos. A função deve lançar dois tipos de exceções: uma para indicar se existe algum
+caractere que não é uma letra e a outra para indicar se algum dos caracteres não é maiúsculo.
+
+"""
+
 
 # Execeções personalizadas
 class NotUpperCaseException (Exception):
