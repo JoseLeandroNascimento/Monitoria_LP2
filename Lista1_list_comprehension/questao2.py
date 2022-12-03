@@ -17,6 +17,5 @@ print(lista)
     3-O count é um método de string onde o mesmo busca a presença de uma caracter, que é fornecido pelo parâmetro e retorna a quantidade de vezes que ele esteve presente.
       Portanto, para pode usar esse método é necessário converter o numero em string
     
-
 """
 
