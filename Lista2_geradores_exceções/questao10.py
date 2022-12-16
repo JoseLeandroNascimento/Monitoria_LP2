@@ -9,6 +9,8 @@ class RespostaInvalidaError (Exception):
 
     ...
 
+
+
 while True:
 
     resposta = input("Confirma?")
